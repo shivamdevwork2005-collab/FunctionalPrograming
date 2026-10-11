@@ -1,4 +1,3 @@
-# FunctionalPrograming
 # ☕ Java 8 Functional Programming
 
 A hands-on learning repository dedicated to **Java 8 Functional Programming**, featuring practical examples, code snippets, and concepts useful for Java developers and interview preparation.
